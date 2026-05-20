@@ -1,0 +1,6 @@
+# Core requirements for the Tkinter (desktop) version
+numpy
+pandas
+pillow
+pyttsx3
+opencv-contrib-python
